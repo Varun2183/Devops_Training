@@ -146,15 +146,15 @@ git log --oneline
 - Explain the purpose of Git, Docker, Kubernetes, Jenkins, Terraform, and AWS.
 
 ### 10. Day 1 Completion Checklist
-- [ ] Understand DevOps fundamentals.
-- [ ] Explain the DevOps lifecycle.
-- [ ] Understand CI/CD.
-- [ ] Understand automation and IaC.
-- [ ] Install Ubuntu through WSL2.
-- [ ] Practice Linux commands.
-- [ ] Configure Git.
-- [ ] Create first Git repository and commit.
-- [ ] Complete Day 1 evaluation.
+- [ / ] Understand DevOps fundamentals.
+- [ / ] Explain the DevOps lifecycle.
+- [ / ] Understand CI/CD.
+- [ / ] Understand automation and IaC.
+- [ / ] Install Ubuntu through WSL2.
+- [ / ] Practice Linux commands.
+- [ / ] Configure Git.
+- [ / ] Create first Git repository and commit.
+- [ / ] Complete Day 1 evaluation.
 
 ---
 
